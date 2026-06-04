@@ -322,6 +322,12 @@
       "baseDurationMs": 180000
     },
     {
+      "code": "Nightshade sprout_seeds",
+      "name": "밤그늘싹",
+      "type": "seed",
+      "baseDurationMs": 3600000
+    },
+    {
       "code": "platinum_ingot",
       "name": "백금 주괴",
       "type": "general",
@@ -458,6 +464,12 @@
       "name": "소산포션",
       "type": "potion",
       "baseDurationMs": 180000
+    },
+    {
+      "code": "Crystal succulent_seeds",
+      "name": "수정다육 씨앗",
+      "type": "seed",
+      "baseDurationMs": 900000
     },
     {
       "code": "crystal_fountain",
